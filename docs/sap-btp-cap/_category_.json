@@ -1,0 +1,8 @@
+{
+  "label": "SAP | BTP | CAP",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentación general sobre desarrollo en SAP CAP"
+  }
+}
